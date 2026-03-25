@@ -1,4 +1,6 @@
-# Basico
+# Chat basico
+
+![chat-sockets](https://github.com/user-attachments/assets/76f0bd08-28b2-4f1b-967a-e535ee907d83)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.5.
 
